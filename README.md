@@ -1,3 +1,4 @@
+一个VUE做前端，golang+gin+gorm+mysql组成后端的DEMON,从syncd改造而来，用于自己平常快速创建基于golang的WEB项目。
 ## 特性
 
 - Go语言开发，编译简单、运行高效
